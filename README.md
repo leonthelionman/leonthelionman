@@ -1,3 +1,4 @@
+<div style="color:#FFFFFF">
 
 <img src="https://i.imgur.com/iFhjiwQ.jpg" width="100%">
 
@@ -158,3 +159,5 @@ See [my website](#####) for more information!
     </a>
   </p>
 </p>
+
+</div>
