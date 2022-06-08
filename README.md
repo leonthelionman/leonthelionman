@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/iFhjiwQ.jpg" width="100%">
 
-<p align="center">
+<p align="center" style="background-color:white">
   <a href="https://nick-sabry-portfolio.netlify.app/#/intro" target="_blank">
     <img src="https://img.icons8.com/ios/72/cursor--v2.gif" width="5%"/>
   </a>
@@ -17,7 +17,7 @@
 
 I am a mechanical engineer motivated to integrate the power of software technology into the industry. Therefore, I have gained the knowledge and skills necessary for software development and the potential to do much more. 
 
-See [my website](#####) for more information!
+See [my website](https://nick-sabry-portfolio.netlify.app/#/intro) for more information!
 
 
 <h1 align="center">Projects</h1>
