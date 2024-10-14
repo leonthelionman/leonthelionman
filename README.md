@@ -15,7 +15,7 @@
   </a>
 </p>
 
-I am a mechanical engineer motivated to integrate the power of software technology into the industry. Therefore, I have gained the knowledge and skills necessary for software development and the potential to do much more. 
+I am a mechanical engineer motivated to learn more about software technology; the projects I push on GitHub can be viewed below.
 
 See [my website](https://nick-sabry-portfolio.netlify.app/#/intro) for more information!
 
